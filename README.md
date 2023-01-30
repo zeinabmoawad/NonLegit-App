@@ -1,4 +1,4 @@
-# Reddit-App
+# NonLegit-App
 Technology: Dart | Flutter
 
 This Project is part from large software project contain many Sub Teams (Backend, Frontend, CrossPlateForm, Testing, Devops). I was a crossplateform member in NonLegit-which name of project- and work in many features like (Profiles and subreddit actions and UI of them, Discover of App).
