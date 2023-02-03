@@ -54,7 +54,8 @@ This Project is part from large software project contain many Sub Teams (Backend
 
 
 ## ![image](https://user-images.githubusercontent.com/92188433/216702751-f4e05685-424b-4687-98d2-7b18899080db.png) Technology <a name = "Technology"></a>
-Dart | Flutter
+https://icons8.com/icon/7I3BjCqe9rjG/flutter
+https://icons8.com/icon/7AFcZ2zirX6Y/dart
 
 ## ![image](https://user-images.githubusercontent.com/92188433/216702206-de6a2fcb-5d51-499c-bfd4-d41b5fd535e2.png) Some Photo for App <a name = "photos"></a>
 ![image](https://user-images.githubusercontent.com/92188433/215614959-7fa9690d-aae4-4862-95e1-77f1ef55f773.png)
