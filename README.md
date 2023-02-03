@@ -32,11 +32,11 @@ https://user-images.githubusercontent.com/92188433/215615831-162d4d9b-0dd3-4aae-
     <sub><b>Zeinab Moawad</b></sub></a>
     </td>
     
-     <td align="center">
+   <td align="center">
     <a href="https://github.com/emanshahda" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/89708797?v=4" width="150px;" alt="emanshahda"/>
+    <img src="https://avatars.githubusercontent.com/u/89708797?v=4" width="150px;" alt="Eman Ali"/>
     <br />
-    <sub><b>emanshahda</b></sub></a>
+    <sub><b>Eman Shahda</b></sub></a>
     </td>
     
      <td align="center">
