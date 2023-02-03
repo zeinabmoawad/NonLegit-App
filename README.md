@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/92188433/215615831-162d4d9b-0dd3-4aae-
     
      <td align="center">
     <a href="https://github.com/ahmedmadbouly186" target="_black">
-    <img src="https://avatars.githubusercontent.com/u/66012617?v=4" alt="ahmedmadbouly186"/>
+    <img src="https://avatars.githubusercontent.com/u/66012617?v=4" width="150px;"  alt="ahmedmadbouly186"/>
     <br />
     <sub><b>Ahmed Madbouly</b></sub></a>
     </td>
