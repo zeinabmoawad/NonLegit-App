@@ -54,17 +54,17 @@ This Project is part from large software project contain many Sub Teams (Backend
 
 
 ## ![image](https://user-images.githubusercontent.com/92188433/216702751-f4e05685-424b-4687-98d2-7b18899080db.png) Technology <a name = "Technology"></a>
-<table>
+<!-- <table>
   <tr>
-     <td align="center">
+     <td align="center"> -->
        ![image](https://user-images.githubusercontent.com/92188433/216707778-3f45a2a7-7544-4d02-8609-7ed1eff9e27a.png)
-    </td>
+<!--     </td> -->
     
-   <td align="center">
+<!--    <td align="center"> -->
       ![image](https://user-images.githubusercontent.com/92188433/216707699-6d741cb6-9ecb-4f7e-be96-87bc545bf8cc.png)
-    </td>    
+<!--     </td>    
   </tr>
-  </table>
+  </table> -->
 
 
 ## ![image](https://user-images.githubusercontent.com/92188433/216702206-de6a2fcb-5d51-499c-bfd4-d41b5fd535e2.png) Some Photo for App <a name = "photos"></a>
