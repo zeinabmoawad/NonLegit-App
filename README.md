@@ -9,7 +9,49 @@
 - [Contributors](#contributors)
 
 ## ![image](https://user-images.githubusercontent.com/92188433/216702887-98bbfe3f-8eda-4939-b895-b4f450d5ac39.png) About <a name = "about"></a>
-This Project is part from large software project contain many Sub Teams (Backend, Frontend, CrossPlateForm, Testing, Devops). I was a crossplateform member in NonLegit-which name of project- and work in many features like (Profiles and subreddit actions and UI of them, Discover of App).
+This Project is part from large software project contain many Sub Teams (Backend, Frontend, CrossPlateForm, Testing, Devops). I was a crossplateform member in NonLegit-which name of project- and work in many features.
+
+## ![image](https://user-images.githubusercontent.com/92188433/216702887-98bbfe3f-8eda-4939-b895-b4f450d5ac39.png) Features <a name = "features"></a>
+1. Authentication: (Login Sign-up Sign-up with Google & Facebook Reset Password Forget User Name)
+
+2. Create a Post: 3 types of post (📝Text 📷Image 📎Link)
+2 types of post tags (🔞NSFW 💥spoiler)
+
+3. Search by :📫Posts 💭Comments 👨‍👧Communities 👨‍👨‍👦‍👦People
+
+4. User Actions on the post: ⏏Upvote/Downvote Share/Edit post ✅ Approve 🕳 Mark as spam 🙈Hide 🔱Save 🚫Delete 🔒Lock
+
+5. Comments
+🖇 Multilevel Comments
+
+6. Actions on posts: ⏏Upvote & Downvote ✅Approve(for moderators) 🕳Spam 🔱Save 🗯Replay
+
+7. Account Settings: Change account (Email, Password, Gender, Country)-Delete Account-Connect with google
+
+8. Profile Settings: Edit (name, about, Profile picture, Background Picture)-Turn on/off NSFW-follow-Add social links to another website
+
+9. Safety&privacy: block/unblock user-block list
+
+10. Feed Settings
+→Turn on/off (Adult content, autoplay media)
+
+11. Notifications: Hide notification
+2 Types of Notification (New Followers-Replies)
+
+12. Profile: 🏔Profile overview 📫Posts 🗯Comments 🗃Viewed Posts History 📋Saved/Hidden/Upvoted/Downvoted posts
+
+13. Subreddit:🔰create Subreddit 👀View subreddit posts 🤜🏼join /leave Subreddit
+3 types of Subreddit (👷🏼‍♂️Public 👁‍🗨Restricted 🔒Private)
+
+14. Moderation: 🕳 Spam posts ✒Edited posts
+💈 Unmoderator posts 🚫Ban users 🔈Mute users ✅Add new moderators 👨🏽‍🤝‍👨🏻 Edit moderators 🎨Edit/Add post flairs 🚧Add rules 👨‍👨‍👦‍👦Edit Community 💭Control post type
+
+15. Messages: 📩Send a private message 📮View Sent Messages 📦Inbox(All messages-Unread-Received Messages-your post replies
+
+16. Push Notifications: 💌Notifications&messages
+🔓Push notifications permission
+2 types of Push Notifications (Foreground-Background)
+
 
 ## ![image](https://user-images.githubusercontent.com/92188433/216702751-f4e05685-424b-4687-98d2-7b18899080db.png) Technology <a name = "Technology"></a>
 Dart | Flutter
