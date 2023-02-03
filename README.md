@@ -8,8 +8,9 @@
 - [Video of App of My Part in NonLegit](#video)
 - [Contributors](#contributors)
 
-##![image](https://user-images.githubusercontent.com/92188433/216702887-98bbfe3f-8eda-4939-b895-b4f450d5ac39.png) About <a name = "about"></a>
+## ![image](https://user-images.githubusercontent.com/92188433/216702887-98bbfe3f-8eda-4939-b895-b4f450d5ac39.png) About <a name = "about"></a>
 This Project is part from large software project contain many Sub Teams (Backend, Frontend, CrossPlateForm, Testing, Devops). I was a crossplateform member in NonLegit-which name of project- and work in many features like (Profiles and subreddit actions and UI of them, Discover of App).
+
 ## ![image](https://user-images.githubusercontent.com/92188433/216702751-f4e05685-424b-4687-98d2-7b18899080db.png) Technology <a name = "Technology"></a>
 Dart | Flutter
 
@@ -57,5 +58,6 @@ https://user-images.githubusercontent.com/92188433/215615831-162d4d9b-0dd3-4aae-
     <br />
     <sub><b>Amr</b></sub></a>
     </td>
+    
   </tr>
   </table>
