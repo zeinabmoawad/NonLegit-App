@@ -11,7 +11,7 @@
 ## ![image](https://user-images.githubusercontent.com/92188433/216702887-98bbfe3f-8eda-4939-b895-b4f450d5ac39.png) About <a name = "about"></a>
 This Project is part from large software project contain many Sub Teams (Backend, Frontend, CrossPlateForm, Testing, Devops). I was a crossplateform member in NonLegit-which name of project- and work in many features.
 
-## ![image](https://user-images.githubusercontent.com/92188433/216702887-98bbfe3f-8eda-4939-b895-b4f450d5ac39.png) Features <a name = "features"></a>
+## ![image](https://user-images.githubusercontent.com/92188433/216706596-02466adc-49b0-4025-9b25-39e00138adec.png) Features <a name = "features"></a>
 1. Authentication: (Login Sign-up Sign-up with Google & Facebook Reset Password Forget User Name)
 
 2. Create a Post: 3 types of post (📝Text 📷Image 📎Link)
